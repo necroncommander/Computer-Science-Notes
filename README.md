@@ -1,1 +1,9 @@
 This website aims to be a comprehensive collection/library of resources related to computer science. This will not be a perfect library, however I aim to make it as detailed and accurate as possible on the topics that it covers. You can contribute to the site on GitHub.
+
+| **Artificial Intelligence** | [Link](/Computer-Science-Notes/artificial%20intelligence%20notes/ai.md) |
+|-----------------------------|--------------------------------------------------|
+|                             | Link                                             |
+|                             | Link                                             |
+|                             | Link                                             |
+|                             | Link                                             |
+|                             | Link                                             |
